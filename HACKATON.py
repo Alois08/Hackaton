@@ -109,7 +109,7 @@ def onglet1():
     
     st.markdown("<h1 style='text-align: center;'>La carte des entrées</h1>", unsafe_allow_html=True)
     st.markdown("<h3 style='text-align: center;'>Quiz de culture générale</h3>", unsafe_allow_html=True)
-    url1 = "https://drive.google.com/uc?export=view&id=1pAxxd0G0n35kOjasDDj3jvERauNMJG58"
+    url1 = "quiz-dans-style-bande-dessinee-pop-art_175838-505.avif"
     st.image(url1, width = 700)
     if st.button("Lancer le quizz"):
         quizz_final()

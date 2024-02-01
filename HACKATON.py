@@ -223,7 +223,7 @@ def onglet4():
     
 def main():
     
-    url5 = ""
+    url5 = "DALLE_2023-11-24_09.37.21_-_A_funny_emoticon_character_with_a_Christmas_hat._The_emoticon_should_have_a_big_smile_wide_eyes_and_exaggerated_joyful_expressions._The_Christmas_ha.webp"
     st.sidebar.image(url5)
     st.sidebar.title("Navigation")
 

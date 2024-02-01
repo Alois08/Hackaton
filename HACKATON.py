@@ -125,7 +125,7 @@ def onglet2():
 
     st.markdown("<h1 style='text-align: center;'>Plat de resistance</h1>", unsafe_allow_html=True)
     #url3 =
-    chemin_fichier_json = "/Users/aloisbrault/Documents/wildcodeschool/HACKATON/blagues.json"
+    chemin_fichier_json = "blagues.json"
     with open(chemin_fichier_json, 'r') as fichier:
         donnees_json = json.load(fichier)
 

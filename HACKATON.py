@@ -92,7 +92,7 @@ def onglet0():
     
     
     
-    image = "https://drive.google.com/uc?export=view&id=1OyUn-V8EeDOpWpL_X_2Eu9XqNoecz_ke"
+    image = "Pourquoi_.webp"
     st.image(image)
     
     

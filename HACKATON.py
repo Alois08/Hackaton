@@ -214,7 +214,7 @@ def onglet4():
     st.markdown("<h1 style='text-align: center;'>Et un petit digestif ?</h1>", unsafe_allow_html=True)
     st.markdown("<h4 style='text-align: center;'>Ici sera bientôt disponible LE 'BLIND TEST' tant attendu !!</h4>", unsafe_allow_html=True)
     
-    url6 = "https://drive.google.com/uc?export=view&id=1NuahitKx56DvSHAp-oYCY7DZJKFtU6Nb"
+    url6 = "DALLE_2023-11-24_10.01.40_-_A_Christmas-themed_construction_site_scene._There_should_be_a_large_construction_crane_decorated_with_Christmas_lights_and_a_big_red_bow._Workers_in_s.webp"
     st.image(url6)
     
    
@@ -223,7 +223,7 @@ def onglet4():
     
 def main():
     
-    url5 = "https://drive.google.com/uc?export=view&id=1uFSSTvQTEpU7XIxuvVDhfmnhu2ifsisI"
+    url5 = ""
     st.sidebar.image(url5)
     st.sidebar.title("Navigation")
 
